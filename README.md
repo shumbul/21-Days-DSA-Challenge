@@ -1,7 +1,7 @@
 # 21-Days-DSA-Challenge
 
 ## Day 1
-[]()
+[Count pairs with given sum](https://bit.ly/47bCCoF)
 
 ## Day 2
 []()
