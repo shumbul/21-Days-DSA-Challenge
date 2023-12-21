@@ -4,7 +4,7 @@
 [Count pairs with given sum](https://bit.ly/47bCCoF)
 
 ## Day 2
-[2. Remove character.cpp](https://bit.ly/3Tsqahn)
+[Remove character](https://bit.ly/3Tsqahn)
 
 ## Day 3
 []()
