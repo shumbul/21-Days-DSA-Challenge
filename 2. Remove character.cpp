@@ -17,8 +17,8 @@ class Solution {
 };
 
 /*
-Time complexity: O(O(len(string1) + len(string2)))
-Space complexity: O(k), where k is the number of unique characters in string2.
+Time complexity: O(m+n)
+Space complexity: O(n)
 */
 
 // Code by Shumbul Arifa - https://linktr.ee/shumbul 
