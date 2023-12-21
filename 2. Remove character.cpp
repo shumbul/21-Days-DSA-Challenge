@@ -17,8 +17,8 @@ class Solution {
 };
 
 /*
-Time complexity: O(m+n)
-Space complexity: O(n)
+Time complexity: O(len(string1))
+Space complexity: O(len(string2))
 */
 
 // Code by Shumbul Arifa - https://linktr.ee/shumbul 
