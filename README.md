@@ -7,7 +7,7 @@
 [Remove character](https://bit.ly/3Tsqahn)
 
 ## Day 3
-[]()
+[Buy Stock 2](https://bit.ly/48uaNZM)
 
 ## Day 4
 []()
