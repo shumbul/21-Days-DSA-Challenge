@@ -22,6 +22,6 @@ class Solution{
 }
 
 /**
-* Time complexity  : O(n) - Length of first array
-* Space complexity : O(m) - Length of second array
+* Time complexity  : O(n) - Length of first string
+* Space complexity : O(m) - Length of second string
     **/
