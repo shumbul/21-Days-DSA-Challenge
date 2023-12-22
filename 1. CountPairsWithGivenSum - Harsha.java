@@ -42,6 +42,7 @@ class Solution {
 
 
 
-/** Time complexity : O(n) - for iterating array of n elements
-
+/**
+ * Time complexity : O(n) - for iterating array of n elements
  * Space complexity: O(n) - For storing n elements of array (in worst case where all elements of the array are unique)
+*/
