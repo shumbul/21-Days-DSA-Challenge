@@ -1,5 +1,9 @@
 # 21-Days-DSA-Challenge
 
+For video solution and more, bookmark my website - https://www.shumbularifa.com/
+
+Contributing guidelines - [Contributing.md](/0.%20Contributing.md)
+
 ## Day 1
 [Count pairs with given sum](https://bit.ly/47bCCoF)
 
