@@ -13,4 +13,5 @@ Contributing guidelines - [Contributing.md](/0.%20Contributing.md)
 | Day 3 | Buy Stock 2 | [Solution Video 3](https://www.youtube.com/shorts/jgVW8IY_bUU) | [Problem Link 3](https://bit.ly/48uaNZM) |
 | Day 4 | Mirror Tree | [Solution Video 4](https://youtube.com/shorts/JCSfzJ_aZ8w) | [Problem Link 4](https://bit.ly/4aqvKa0) |
 | Day 5 | Lowest Common Ancestor in a Binary Tree | [Solution Video 5](https://youtube.com/shorts/Rzz4Qel0sSg) | [Problem Link 5](https://bit.ly/48r1hXl ) |
-| Day 6 | Search in a matrix | [Solution Video 6](https://www.youtube.com/shorts/wVK-3QAXCik) | [Problem Link 4](https://bit.ly/3v0if0m) |
+| Day 6 | Search in a matrix | [Solution Video 6](https://www.youtube.com/shorts/wVK-3QAXCik) | [Problem Link 6](https://bit.ly/3v0if0m) |
+| Day 7 | K largest elements  | [Solution Video 7](https://youtube.com/shorts/B5cwJoAFzsc) | [Problem Link 7](http://bit.ly/41BAKo6) |
