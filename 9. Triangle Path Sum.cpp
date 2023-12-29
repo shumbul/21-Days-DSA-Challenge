@@ -1,21 +1,36 @@
 // Problem link - https://bit.ly/48vV3FO 
 
 class Solution {
-    int dp[201][201];
-    int helper(int i, int j, vector<vector<int>>& triangle, int& n) {
-        if(i<0 || j<0 || i>=n || j>=n) return INT_MAX;
-        if(i==n-1) return triangle[i][j];
-        if(dp[i][j] !=-1) return dp[i][j];
-        return dp[i][j]=min(helper(i+1, j, triangle, n), helper(i+1, j+1, triangle, n)) + triangle[i][j];
-    }
   public:
+    int solve(int n, vector<vector<int>>& triangle, int row, int col, vector<vector<int> >& dp){
+        if(row == n - 1)
+            return triangle[row][col];
+            
+        if(dp[row][col] != -1)
+            return dp[row][col];
+        
+        int leftSum = solve(n, triangle, row+1, col, dp);
+        int rightSum = solve(n, triangle, row+1, col+1, dp);
+        
+        int ans = triangle[row][col] + min(leftSum, rightSum); 
+        
+        return dp[row][col] = ans;
+    }
+    
     int minimizeSum(int n, vector<vector<int>>& triangle) {
-        // Code here
-        // memoization
-        memset(dp, -1, sizeof dp);
-        return helper(0, 0, triangle, n);
+        vector<vector<int> > dp(n, vector<int> (n, -1));
+        return solve(n, triangle, 0, 0, dp);
     }
 };
+
+/* Easy to understand code 
+    TC : O(n^2)
+    SC : O(n^2)
+
+    we can optimize this code in 
+    TC : O(n^2)
+    SC : O(n)
+*/
 
 // Code by Shumbul Arifa - https://linktr.ee/shumbul 
 // Follow 21 days DSA Challenge - www.shumbularifa.com
