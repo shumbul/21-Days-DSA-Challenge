@@ -16,3 +16,5 @@ Contributing guidelines - [Contributing.md](/0.%20Contributing.md)
 | Day 6 | Search in a matrix | [Solution Video 6](https://www.youtube.com/shorts/wVK-3QAXCik) | [Problem Link 6](https://bit.ly/3v0if0m) |
 | Day 7 | K largest elements  | [Solution Video 7](https://youtube.com/shorts/B5cwJoAFzsc) | [Problem Link 7](http://bit.ly/41BAKo6) |
 | Day 8 | Right View of Binary Tree  | [Solution Video 8](https://youtube.com/shorts/O4NSYZ1gvFE) | [Problem Link 8](https://bit.ly/41BjJKW) |
+| Day 9 | Triangle path sum  | [Solution Video 9](https://youtube.com/shorts/cfMbCam9eIY) | [Problem Link 9](https://bit.ly/48vV3FO) |
+| Day 10 | Nth Fibonacci number  | [Solution Video 10](https://youtube.com/shorts/a1RvuS2_3ug?feature=share) | [Problem Link 10](https://bit.ly/48zyVdS) |
