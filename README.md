@@ -17,4 +17,6 @@ Contributing guidelines - [Contributing.md](/0.%20Contributing.md)
 | Day 7 | K largest elements  | [Solution Video 7](https://youtube.com/shorts/B5cwJoAFzsc) | [Problem Link 7](http://bit.ly/41BAKo6) |
 | Day 8 | Right View of Binary Tree  | [Solution Video 8](https://youtube.com/shorts/O4NSYZ1gvFE) | [Problem Link 8](https://bit.ly/41BjJKW) |
 | Day 9 | Triangle path sum  | [Solution Video 9](https://youtube.com/shorts/cfMbCam9eIY) | [Problem Link 9](https://bit.ly/48vV3FO) |
-| Day 10 | Nth Fibonacci number  | [Solution Video 10](https://youtube.com/shorts/a1RvuS2_3ug?feature=share) | [Problem Link 10](https://bit.ly/48zyVdS) |
+| Day 10 | Nth Fibonacci number  | [Solution Video 10](https://youtube.com/shorts/a1RvuS2_3ug) | [Problem Link 10](https://bit.ly/48zyVdS) |
+| Day 11 | Find the number of islands  | [Solution Video 11](https://youtube.com/shorts/nnFKrwb45zk) | [Problem Link 11](https://bit.ly/3RFQEcr) |
+| Day 12 | Word Ladder 1  | [Solution Video 12](https://youtube.com/shorts/93EIxJ-s1ZQ) | [Problem Link 12](https://bit.ly/48pveY2) |
