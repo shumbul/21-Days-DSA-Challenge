@@ -20,5 +20,5 @@ Contributing guidelines - [Contributing.md](/0.%20Contributing.md)
 | Day 10 | Nth Fibonacci number  | [Solution Video 10](https://youtube.com/shorts/a1RvuS2_3ug) | [Problem Link 10](https://bit.ly/48zyVdS) |
 | Day 11 | Find the number of islands  | [Solution Video 11](https://youtube.com/shorts/nnFKrwb45zk) | [Problem Link 11](https://bit.ly/3RFQEcr) |
 | Day 12 | Word Ladder 1  | [Solution Video 12](https://youtube.com/shorts/93EIxJ-s1ZQ) | [Problem Link 12](https://bit.ly/48pveY2) |
-| Day 12 | Word Ladder 1  | [Solution Video 13](https://youtube.com/shorts/H2WauKGOpf8) | [Problem Link 13](https://bit.ly/48zi1vM) |
+| Day 13 | Overlapping Intervals  | [Solution Video 13](https://youtube.com/shorts/H2WauKGOpf8) | [Problem Link 13](https://bit.ly/48zi1vM) |
 | Day 14 | Reverse a linked list  | [Solution Video 14](https://youtube.com/shorts/TGuJD876ycg) | [Problem Link 14](https://bit.ly/48AEVD8) |
