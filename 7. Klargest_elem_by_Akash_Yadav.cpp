@@ -1,3 +1,5 @@
+// Problem Link: http://bit.ly/41BAKo6 
+
 class Solution
 {
     public:
@@ -27,7 +29,7 @@ class Solution
 // ----------------------------------------------------------------------
     
         
-        // Second Sol: -
+        // Second Sol: - Best Time Complexity
         
         // T.C: - O(n) + O(K) + O(klogk)
         // S.C: - O(2K)
@@ -38,7 +40,7 @@ class Solution
         
         for(int i = 0; i < n; i++)
         {
-            pq.push(arr[i]);
+            pq.push(arr[i]);    // O(logk) time complexity as it is guarenteed that pq will not store more than k elements
             
             
             // Jese hi pq me 'k' se jyada elem store hue
@@ -70,7 +72,7 @@ class Solution
         
         // Third sol: -
         
-        // T.C: - O(n) + O(k)
+        // T.C: - O(nlogn) + O(k)
         // S.C: - O(n) + O(k)
         
         
@@ -79,7 +81,7 @@ class Solution
         
         for(int i = 0; i < n; i++)
         {
-            pq.push(arr[i]);
+            pq.push(arr[i]);    // O(logn)
         }
         
         vector<int> klargest;
