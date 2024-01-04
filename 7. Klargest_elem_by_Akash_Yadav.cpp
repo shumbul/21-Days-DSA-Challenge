@@ -31,7 +31,7 @@ class Solution
         
         // Second Sol: - Best Time Complexity
         
-        // T.C: - O(n) + O(K) + O(klogk)
+        // T.C: - O(nlogk) + O(K) + O(k)
         // S.C: - O(2K)
     
     
