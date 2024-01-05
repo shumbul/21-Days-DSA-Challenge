@@ -12,6 +12,7 @@ class Solution
         Node* prev = NULL;
         Node* curr = head;
         Node* next;
+        // iterative approach
             
         while(curr != NULL){
             next = curr -> next;
