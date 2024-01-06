@@ -23,3 +23,6 @@ Contributing guidelines - [Contributing.md](/0.%20Contributing.md)
 | Day 13 | Overlapping Intervals  | [Solution Video 13](https://youtube.com/shorts/H2WauKGOpf8) | [Problem Link 13](https://bit.ly/48zi1vM) |
 | Day 14 | Reverse a linked list  | [Solution Video 14](https://youtube.com/shorts/TGuJD876ycg) | [Problem Link 14](https://bit.ly/48AEVD8) |
 | Day 15 | Merge Sort for Linked List  | [Solution Video 15](https://youtube.com/shorts/3XLeaMe8DcU) | [Problem Link 15](https://bit.ly/3tG5GXU) |
+| Day 16 | Spirally traversing a matrix  | [Solution Video 16](https://youtube.com/shorts/z67N1BRSwbs) | [Problem Link 16](https://bit.ly/48k0Iz1) |
+| Day 17 | Container With Most Water  | [Solution Video 17](https://youtube.com/shorts/Zw-RXVAEZPo) | [Problem Link 17](https://bit.ly/3H6DjoS) |
+| Day 18 | Parenthesis Checker  | [Solution Video 18](https://youtube.com/shorts/ouKCJ5eyO0s) | [Problem Link 18](https://bit.ly/3RIoaPl) |
