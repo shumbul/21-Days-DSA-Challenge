@@ -26,3 +26,5 @@ Contributing guidelines - [Contributing.md](/0.%20Contributing.md)
 | Day 16 | Spirally traversing a matrix  | [Solution Video 16](https://youtube.com/shorts/z67N1BRSwbs) | [Problem Link 16](https://bit.ly/48k0Iz1) |
 | Day 17 | Container With Most Water  | [Solution Video 17](https://youtube.com/shorts/Zw-RXVAEZPo) | [Problem Link 17](https://bit.ly/3H6DjoS) |
 | Day 18 | Parenthesis Checker  | [Solution Video 18](https://youtube.com/shorts/ouKCJ5eyO0s) | [Problem Link 18](https://bit.ly/3RIoaPl) |
+| Day 19 | Longest consecutive subsequence  | [Solution Video 19](https://youtube.com/shorts/x55uHxcxi6I) | [Problem Link 19](https://bit.ly/3TMU9ka) |
+| Day 20 | Generate Parentheses  | [Solution Video 20](https://youtube.com/shorts/x55uHxcxi6I) | [Problem Link 20](https://bit.ly/3tL452T) |
