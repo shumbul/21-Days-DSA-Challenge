@@ -28,3 +28,7 @@ Contributing guidelines - [Contributing.md](/0.%20Contributing.md)
 | Day 18 | Parenthesis Checker  | [Solution Video 18](https://youtube.com/shorts/ouKCJ5eyO0s) | [Problem Link 18](https://bit.ly/3RIoaPl) |
 | Day 19 | Longest consecutive subsequence  | [Solution Video 19](https://youtube.com/shorts/x55uHxcxi6I) | [Problem Link 19](https://bit.ly/3TMU9ka) |
 | Day 20 | Generate Parentheses  | [Solution Video 20](https://youtube.com/shorts/x55uHxcxi6I) | [Problem Link 20](https://bit.ly/3tL452T) |
+| Day 21 | Phone directory  | [Solution Video 21](https://youtube.com/shorts/DioCkr9y9-c) | [Problem Link 21](https://bit.ly/3H6DHUm ) |
+
+## Learn from me
+Check [these](https://www.shumbularifa.com/courses) out for in depth understanding of data strcutures and algorithms.
