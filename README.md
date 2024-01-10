@@ -31,4 +31,4 @@ Contributing guidelines - [Contributing.md](/0.%20Contributing.md)
 | Day 21 | Phone directory  | [Solution Video 21](https://youtube.com/shorts/DioCkr9y9-c) | [Problem Link 21](https://bit.ly/3H6DHUm ) |
 
 ## Learn from me
-Check [these](https://www.shumbularifa.com/courses) out for in depth understanding of data strcutures and algorithms.
+Check [this](https://www.shumbularifa.com/courses) out for more in-depth understanding of Data Strcutures and Algorithms.
